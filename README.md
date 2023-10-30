@@ -5,7 +5,7 @@
 ## Currently working in sravni.ru
 
 ## **Work Skills**
-- ## .NET (Framework, Core), RabbitMQ, Reddis, PosgreSQL, MSSQL, Blazor
+- ## .NET, RabbitMQ, Reddis, PosgreSQL, MSSQL, Blazor
 - ## React, MobX, jQuery, TypeScript, JavaScript
 - ## A little bit Python, C++ and PHP
 
