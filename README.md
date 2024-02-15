@@ -2,7 +2,7 @@
 
 ## **Middle .NET Developer from Yekaterinburg**
 
-## Currently working in [Сравни]([https://ap-pro.ru/forums/topic/3329-fotograf-selfmade/](https://www.sravni.ru/))
+## Currently working in [Сравни]([https://ap-pro.ru/forums/topic/3329-fotograf-selfmade/](https://www.sravni.ru/)
 
 ## **Work Skills**
 - ## .NET, PosgreSQL, MSSQL, Blazor, RabbitMQ, Reddis, Terraform, Github CI/CD
