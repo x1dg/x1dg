@@ -10,10 +10,6 @@
 - ## React, MobX, jQuery, TypeScript, JavaScript
 - ## A little bit Python, C++ and PHP
 
-## **Carz**
-- ## Mitsubishi Lancer X 2011 109HP
-- ## Mazda RX-8 2004 210HP
-
 ## **My STALKER MODS**
 - ## [Priboi Story - Eternal [OGSR]](https://ap-pro.ru/forums/topic/2963-priboi-story-eternal-ogsr/)
 - ## [ФОТОГРАФ - SELFMADE](https://ap-pro.ru/forums/topic/3329-fotograf-selfmade/)
