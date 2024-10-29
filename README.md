@@ -7,6 +7,10 @@
 ## **Work Skills**
 - ## .NET, PosgreSQL, MSSQL, Blazor, RabbitMQ, Reddis, Terraform, Github CI/CD
 - ## Database migration MSSQL -> PostgreSQL
+- ## Memory leaks fixing
+- ## Migration from Azure to Yandex Cloud
+- ## New microservices development
+- ## Blazor admin panel
 - ## React, MobX, jQuery, TypeScript, JavaScript
 - ## A little bit Python, C++ and PHP
 
