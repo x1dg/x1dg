@@ -1,6 +1,6 @@
 ## Hello
 
-## **Middle .NET Developer from Yekaterinburg**
+## **.NET Developer from Yekaterinburg**
 
 ## Currently working **in progress..**
 
