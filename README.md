@@ -10,7 +10,7 @@
 - ## Memory leaks fixing
 - ## Migration from Azure to Yandex Cloud
 - ## New microservices development
-- ## Blazor admin panel
+- ## Blazor admin panel development
 - ## React, MobX, jQuery, TypeScript, JavaScript
 - ## A little bit Python, C++ and PHP
 
