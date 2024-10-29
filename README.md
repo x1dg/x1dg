@@ -2,7 +2,7 @@
 
 ## **Middle .NET Developer from Yekaterinburg**
 
-## Currently working in [Сравни (#OSAGO team)](https://www.sravni.ru/osago)
+## Currently working **in progress..**
 
 ## **Work Skills**
 - ## .NET, PosgreSQL, MSSQL, Blazor, RabbitMQ, Reddis, Terraform, Github CI/CD
