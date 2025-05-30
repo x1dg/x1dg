@@ -2,7 +2,7 @@
 
 ## **.NET Developer from Yekaterinburg**
 
-## Currently working **in progress..**
+## Currently working **Astrum Entertainment**
 
 ## **Work Skills**
 - ## .NET, PosgreSQL, MSSQL, Blazor, RabbitMQ, Reddis, Terraform, Github CI/CD
