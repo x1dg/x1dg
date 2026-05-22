@@ -5,7 +5,7 @@
 ## Currently working **TBD**
 
 ## **Work Skills**
-- ## .NET 6/8/10, PosgreSQL, MSSQL, OracleDB, MongoDb, Redis,
+- ## .NET 6/8/10, PosgreSQL, MSSQL, OracleDB, MongoDb, Redis
 - ## RabbitMQ, Kafka
 - ## Github CI/CD, Docker, k8s, Harbor, ArgoCD, ELK Stack, nUnit/xUnit
 - ## Database migration MSSQL -> PostgreSQL
