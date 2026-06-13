@@ -4,7 +4,7 @@
 
 ## Currently working **TBD**
 
-## ex. **SRAVNI**, ex. **Astrum Entertaiment** // .NET Developer
+## 🤙 ex. **SRAVNI**, ex. **Astrum Entertaiment** 🤙
 
 ## **Work Skills**
 - ## .NET 6/8/10, PosgreSQL, MSSQL, OracleDB, MongoDb, Redis
