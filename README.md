@@ -13,7 +13,7 @@
 - ## Database migration MSSQL -> PostgreSQL
 - ## Memory leaks fixing
 - ## Migration from Azure to Yandex Cloud k8s
-- ## React, MobX, jQuery, TypeScript, JavaScript, Blazor
+- ## React, MobX, TypeScript, Blazor
 - ## A little bit Python, C++ and Lua
 
 ## **My STALKER MODS**
