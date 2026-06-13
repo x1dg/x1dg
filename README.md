@@ -4,6 +4,8 @@
 
 ## Currently working **TBD**
 
+## ex. **SRAVNI**, ex. **Astrum Entertaiment** .NET Developer
+
 ## **Work Skills**
 - ## .NET 6/8/10, PosgreSQL, MSSQL, OracleDB, MongoDb, Redis
 - ## RabbitMQ, Kafka
