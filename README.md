@@ -1,6 +1,6 @@
 ## Hello, my name is Daniil, I'm currently 27 y.o.
 
-## **.NET Developer from Yekaterinburg**
+## **.NET Developer from Saint Petersburg**
 
 ## Currently working **TBD**
 
